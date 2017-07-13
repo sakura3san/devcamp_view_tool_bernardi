@@ -1,7 +1,6 @@
 # DevcampViewToolBernardi
 
->Various view specific methods for applicatoins I use.
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/devcamp_view_tool_bernardi`. To experiment with that code, run `bin/console` for an interactive prompt.
+>Various view specific methods for applications I use.
 
 ## Installation
 
